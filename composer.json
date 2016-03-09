@@ -1,0 +1,16 @@
+{
+  "name": "magestore/giftcard-media",
+  "description": "N/A",
+  "require": {
+
+  },
+  "type": "library",
+  "version": "1.0.0",
+  "extra": {
+    "map": [
+      [ "/lib/internal/Magestore", "../../lib/internal/Magestore" ],
+      [ "/pub/media/giftvoucher", "../../pub/media/giftvoucher" ],
+      [ "/pub/media/tmp/giftvoucher", "../../pub/media/tmp/giftvoucher" ]
+    ]
+  }
+}
