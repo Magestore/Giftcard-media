@@ -4,6 +4,10 @@
   "require": {
 
   },
+  "license": [
+    "OSL-3.0",
+    "AFL-3.0"
+  ],
   "type": "library",
   "version": "1.0.0",
   "extra": {
