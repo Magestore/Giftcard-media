@@ -8,13 +8,13 @@
     "OSL-3.0",
     "AFL-3.0"
   ],
-  "type": "library",
-  "version": "1.0.0",
+  "type": "magento2-component",
+  "version": "1.0.1",
   "extra": {
     "map": [
-      [ "/lib/internal/Magestore", "../../lib/internal/Magestore" ],
-      [ "/pub/media/giftvoucher", "../../pub/media/giftvoucher" ],
-      [ "/pub/media/tmp/giftvoucher", "../../pub/media/tmp/giftvoucher" ]
+      [ "lib/internal/Magestore", "lib/internal/Magestore" ],
+      [ "pub/media/giftvoucher", "pub/media/giftvoucher" ],
+      [ "pub/media/tmp/giftvoucher", "pub/media/tmp/giftvoucher" ]
     ]
   }
 }
